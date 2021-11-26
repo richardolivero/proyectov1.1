@@ -1,0 +1,6 @@
+/*Documento Css*/
+body{
+background-color: #00F;
+front-weight: blod;
+color: #00F
+}
