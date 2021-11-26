@@ -1,4 +1,5 @@
 <html>
+<link href="css/estilos.css" rel="stylesheet" type="text/css">
 <head>
 <title>Primer pagina</title>
 </head>
